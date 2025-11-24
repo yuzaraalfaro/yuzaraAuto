@@ -1,4 +1,4 @@
-Autor: Kevin Ricalde
+Autor: Yuzara Alfaro
 Java Version: 17
 Caracteristicas:
     Selenium
@@ -9,4 +9,3 @@ Caracteristicas:
     WebDriverManager
     Maven
 
-*Actualizar el maven en caso no tener alguna dependencia.
